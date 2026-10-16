@@ -1,2 +1,6 @@
 env/
 .ipynb_checkpoints/
+*.docx
+lab_1/__pycache__/
+rfsoc_qpsk.tar.gz
+rfsoc_qpsk/
